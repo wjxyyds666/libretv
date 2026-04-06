@@ -44,6 +44,10 @@ const API_SITES = {
         api: 'https://360zy.com',
         name: '360资源',
     },
+    xj: {
+        api: 'https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list',
+        name: '香蕉(你懂的)',
+    },
     wolong: {
         api: 'https://wolongzyw.com',
         name: '卧龙资源',
